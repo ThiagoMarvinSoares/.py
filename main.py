@@ -65,3 +65,22 @@ import random
         #move()
     #else:
         #turn_left()
+<<<<<<< dayEight
+
+# something = 123
+# parameter---argument
+#def greet(name):
+#    print(f'Hello, {name}')
+#    print(f'World, {name}')
+ #   print(f'Helo, {name}')
+
+#greet('Marvin')
+
+#def greet_with(b, a):
+#    print(f'Hello, {a} from {b}')
+#    print(f'World, {a} from {b}')
+#    print(f'Helo, {a}  from {b}')
+
+#greet_with(a='Thiago Marvin', b='Miramar')    
+=======
+>>>>>>> master
