@@ -51,6 +51,7 @@ import random
 #    print(fruit + ' pie')
 
 #----------Code for Reeborg's World----------#
+#---------------------Maze-------------------#
 #def turn_right():
     #turn_left()
     #turn_left()
@@ -64,6 +65,7 @@ import random
         #move()
     #else:
         #turn_left()
+<<<<<<< dayEight
 
 # something = 123
 # parameter---argument
@@ -80,3 +82,5 @@ import random
 #    print(f'Helo, {a}  from {b}')
 
 #greet_with(a='Thiago Marvin', b='Miramar')    
+=======
+>>>>>>> master
