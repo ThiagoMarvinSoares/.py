@@ -141,6 +141,3 @@ travel_log = [
       "times_visited": 5
     },
 ]
-=======
-#greet_with(a='Thiago Marvin', b='Miramar')    
-=======
